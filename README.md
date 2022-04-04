@@ -7,4 +7,4 @@ a bunch of p5.js code
 [generative art](generative-art/index.md)  
 [hand detection](HandDetection/index.md)  
 [snake](snakeGame/index.md)  
-[better snake](better\ snake/index.md)
+[better snake](better snake/index.md)
