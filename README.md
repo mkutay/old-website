@@ -2,6 +2,6 @@
 
 a bunch of p5.js code
 
-[maze generator](mazeGenerator/index.md)
-[quick sort vis](QuickSortVisualization/index.md)
-[generative art](generative-art/index.md)
+[maze generator](mazeGenerator/index.md)  
+[quick sort vis](QuickSortVisualization/index.md)  
+[generative art](generative-art/index.md)  
