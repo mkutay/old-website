@@ -6,3 +6,4 @@ a bunch of p5.js code
 [quick sort vis](QuickSortVisualization/index.md)  
 [generative art](generative-art/index.md)  
 [hand detection](HandDetection/index.md)  
+[snake](snakeGame/index.md)  
