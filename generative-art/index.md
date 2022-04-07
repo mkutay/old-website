@@ -7,3 +7,4 @@ a bunch (one) of generative art
 [circle things](circle/index.md)  
 [hexagon things](hexagons/index.md)  
 [circle_k](circle_k/index.md)  
+[hexagon bu better](hexagon_but_better/index.md)  
