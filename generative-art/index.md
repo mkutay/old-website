@@ -6,3 +6,4 @@ a bunch (one) of generative art
 [my noise](my-noise/index.md)  
 [circle things](circle/index.md)  
 [hexagon things](hexagons/index.md)  
+[circle_k](circle_k/index.md)  
