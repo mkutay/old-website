@@ -5,3 +5,4 @@ a bunch (one) of generative art
 [perlin noise thingy](perlin-noise/index.md)  
 [my noise](my-noise/index.md)  
 [circle things](circle/index.md)  
+[hexagon things](hexagons/index.md)  
