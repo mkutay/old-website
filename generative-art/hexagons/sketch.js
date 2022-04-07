@@ -12,10 +12,23 @@ function setup() {
 }
 
 function draw() {
-  testLines();
+  //testLines();
   //outlineShape();
   //simpleLines();
-  circles();
+  //circles();
+  
+  let picker = random(1);
+  if (picker > 0.3) {
+    outlineShape();
+  }
+  picker = random(1);
+  if (picker > 0.3) {
+    simpleLines();
+  }
+  picker = random(1);
+  if (picker > 0.3) {
+    circles();
+  }
 }
 
 function circles() {
