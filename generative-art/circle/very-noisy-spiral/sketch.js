@@ -13,7 +13,7 @@ function draw() {
     let lastx = -999, lasty = -999;
     let radiusNoise = random(10);
     let radius = 10;
-    stroke(random(20), random(20), random(20));
+    stroke(random(255), random(255), random(255));
     let startang = round(random(360));
     let endang = 1440 + round(random(1440));
     let anglestep = 5 + round(random(3));
