@@ -20,8 +20,8 @@
 
 title: Kutay's Amazing Blog
 email: mkutaybozkurt@vivaldi.net
-description: >- # this means to ignore newlines until "baseurl:"
-  An _amazing_ blog for anything that I write and _more_.
+description: >-
+  An amazing blog for anything that I write and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
